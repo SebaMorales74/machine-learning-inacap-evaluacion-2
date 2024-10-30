@@ -1,4 +1,5 @@
 # Reconocimiento de Imágenes de Productos con CNN - Evaluación 2 - Machine Learning - Sección 
+Repositorio disponible en: [https://github.com/SebaMorales74/machine-learning-inacap-evaluacion-2](https://github.com/SebaMorales74/machine-learning-inacap-evaluacion-2)
 
 ## Marco Teórico
 
