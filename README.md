@@ -40,11 +40,16 @@ El aumento de datos es una técnica utilizada para mejorar la generalización de
 - **Reporte de Clasificación**: Un reporte detallado que incluya métricas como precisión, recall y F1-score para cada categoría, proporcionando una visión completa del rendimiento del modelo.
 - **Predicciones en Tiempo Real**: Un sistema de captura de video en tiempo real que utilice el modelo entrenado para predecir la clase de productos en imágenes capturadas por la cámara, con un umbral de confianza para manejar predicciones de baja confianza.
 
-![evaluacion de modelo](./resultados/image.png)
+### Evaluacion graficada
+<img style="max-width:400px;" src="./resultados/evaluacion_de_modelo_1.png">
+<br/>
 
-![raw data](./resultados/image.png)
+### Resultados en crudo
+<img style="max-width:400px;" src="./resultados/raw_data.png">
+<br/>
 
-![funcionamiento](./resultados/image.png)
+### Funcionamiento del Modelo
+<img style="max-width:400px;" src="./resultados/funcionamiento.png">
 
 
 ## Ejecución del Código
